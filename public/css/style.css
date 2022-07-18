@@ -195,6 +195,10 @@ body {
   margin-right: 6px;
 }
 
+ion-icon[name="heart-sharp"] {
+  color: #ED4956;
+}
+
 .post .fundo .curtidas {
   display: flex;
   align-items: center;
